@@ -9,7 +9,7 @@
     <div class="cell medium-8">
       <div class="blog-post">
         <h3>Mellow Mushroom - Baton Rouge, Louisiana <small></h3>
-          </div>
+          <div>
          <h4> Uploaded 08/28/2018</small></h4>
     </div>
         <img class="thumbnail" src="https://s3-media3.fl.yelpcdn.com/bphoto/IWB5m0Bes0dCDnyCS-fu9A/348s.jpg">
