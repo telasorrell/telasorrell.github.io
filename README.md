@@ -93,7 +93,36 @@
                 </ul>
               </div>
             </div>
+             <div class="grid-x align-center">
+        <div class="cell medium-8">
+          <div class="blog-post">
+            <h3>   <small>3/6/2016</small></h3>
+            <img class="thumbnail" src="https://s3-media2.fl.yelpcdn.com/bphoto/wdylrHP0PpHvWAC8O5ferg/348s.jpg">
+            <p>      .</p>
+            <div class="callout">
+              <ul class="menu simple">
+                <li><a href="#">Author: Tela Sorrell</a></li>
+                <li><a href="#">Comments: 3</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+        <div class="grid-x align-center">
+          <div class="cell medium-8">
+            <div class="blog-post">
+              <h3>   <small>3/6/2016</small></h3>
+              <img class="thumbnail" src="https://s3-media4.fl.yelpcdn.com/bphoto/uKWpzJw_H9NIKuDPV6o7EQ/348s.jpg">
+              <p>   .</p>
+              <div class="callout">
+                <ul class="menu simple">
+                  <li><a href="#">Author: Tela Sorrell </a></li>
+                  <li><a href="#">Comments: 3</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
           </div>
         </div>
   </article>
-  </article>
+
