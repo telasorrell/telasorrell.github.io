@@ -27,7 +27,7 @@
         <div class="blog-post">
           <h3> <small>8/28/2018</small></h3>
           <img class="thumbnail" src="https://s3-media3.fl.yelpcdn.com/bphoto/z17xxLAgA5xrHkNOaKvgLQ/348s.jpg">
-          <p>   .</p>
+          <p>    .</p>
           <div class="callout">
             <ul class="menu simple">
               <li><a href="#">Author: Tela Sorrell</a></li>
