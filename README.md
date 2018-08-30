@@ -10,6 +10,7 @@
         <h3>Mellow Mushroom - Baton Rouge, Louisiana <small>
           </div>
           Uploaded 08/28/2018</small></h3>
+    </div>
         <img class="thumbnail" src="https://s3-media3.fl.yelpcdn.com/bphoto/IWB5m0Bes0dCDnyCS-fu9A/348s.jpg">
         <p>Pictured is the Spinach and Artichoke Dip and the Enlightened Spinach Salad.</p>
         <div class="callout">
@@ -22,7 +23,10 @@
         <div class="grid-x align-center">
           <div class="cell medium-8">
             <div class="blog-post">
-              <h3> Juban's - Baton Rouge, Louisiana  <small>08/18/2018</small></h3>
+              <h3> Juban's - Baton Rouge, Louisiana  <small>
+                </div>
+                Uploaded 08/18/2018</small></h3>
+    </div>
               <img class="thumbnail" src="https://s3-media2.fl.yelpcdn.com/bphoto/UZssCLUt27MTR9Q4AbY7HQ/348s.jpg">
               <p> Pictured is the Hallelujah Crab.</p>
               <div class="callout">
@@ -37,7 +41,10 @@
             <div class="grid-x align-center">
         <div class="cell medium-8">
           <div class="blog-post">
-            <h3> Cheesecake Factory - New Orleans, Louisiana <small>Uploaded 08/10/2018</small></h3>
+            <h3> Cheesecake Factory - New Orleans, Louisiana <small>
+              </div>
+              Uploaded 08/10/2018</small></h3>
+  </div>
             <img class="thumbnail" src="https://s3-media2.fl.yelpcdn.com/bphoto/mA4VCWxzSLoJLNS1p7xJqg/348s.jpg">
             <p> Pictured is the Lemon Garlic Shrimp Pasta  .</p>
             <div class="callout">
@@ -52,7 +59,10 @@
                <div class="grid-x align-center">
           <div class="cell medium-8">
             <div class="blog-post">
-              <h3> Yardhouse - Dallas, Texas <small>Uploaded 07/26/2018</small></h3>
+              <h3> Yardhouse - Dallas, Texas <small>
+                </div>
+                Uploaded 07/26/2018</small></h3>
+  </div>
               <img class="thumbnail" src="https://s3-media1.fl.yelpcdn.com/bphoto/HFA_5mnix83it8LysMjY0w/348s.jpg">
               <p> Pictured is the Poke Nachos. </p>
               <div class="callout">
@@ -67,7 +77,10 @@
             <div class="grid-x align-center">
         <div class="cell medium-8">
           <div class="blog-post">
-            <h3> Yardhouse - Miami, Florida <small> Uploaded 07/19/2018</small></h3>
+            <h3> Yardhouse - Miami, Florida <small>
+              </div>
+              Uploaded 07/19/2018</small></h3>
+  </div>
             <img class="thumbnail" src="https://s3-media2.fl.yelpcdn.com/bphoto/wdylrHP0PpHvWAC8O5ferg/348s.jpg">
             <p> Pictured is the Gardein Wings in Flavors Firecracker and Korean.</p>
             <div class="callout">
@@ -82,7 +95,10 @@
       <div class="grid-x align-center">
         <div class="cell medium-8">
           <div class="blog-post">
-            <h3> Yardhouse - Miami, Florida  <small> Uploaded 07/19/2018</small></h3>
+            <h3> Yardhouse - Miami, Florida  <small> 
+              </div>
+              Uploaded 07/19/2018</small></h3>
+  </div>
             <img class="thumbnail" src="https://s3-media2.fl.yelpcdn.com/bphoto/aDOSgqablVUkcTozdxpe3w/348s.jpg">
             <p> Pictured is the Spinach Cheese Dip. </p>
             <div class="callout">
@@ -97,7 +113,10 @@
         <div class="grid-x align-center">
           <div class="cell medium-8">
             <div class="blog-post">
-              <h3> Dapper Doughtnuts - Dallas, Texas  <small> Uploaded 07/04/2018</small></h3>
+              <h3> Dapper Doughtnuts - Dallas, Texas  <small> 
+                </div>
+                Uploaded 07/04/2018</small></h3>
+  </div>
               <img class="thumbnail" src="https://s3-media4.fl.yelpcdn.com/bphoto/uKWpzJw_H9NIKuDPV6o7EQ/348s.jpg">
               <p> Pictured is the Mini Doughtnuts in Flavors Bananas Foster and Truffle  .</p>
               <div class="callout">
