@@ -1,8 +1,3 @@
----
-layout: templates-f6-xy-grid
-name: My Life with Food
----
-
     <!-- Start Top Bar -->
 <div class="top-bar">
   <div class="top-bar-left">
