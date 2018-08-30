@@ -1,6 +1,6 @@
 ---
 layout: templates-f6-xy-grid
-name: Foundation For Sites
+name: My Life with Food
 ---
 
     <!-- Start Top Bar -->
