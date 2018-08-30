@@ -2,6 +2,7 @@
   <div class="text-center"><font face="baskerville old face">
     <h1> The Ultimate Food Heaven</h1>
     <h2 class="subheader">    Tela Sorrell</h2>
+    <h3> Welcome to my food blog, The Ultimate Food Heaven! I am a food enthusiast, who enjoys traveling around the United States and trying out restaurants of various cuisines. If you are interested in exploring new restaurants or looking at pictures of food, then you have most definitely came to the right place. Feel free to leave me comments with your thoughts or suggestions of a restaurant you may like for me to visit and review. Who knows! You may get lucky and have your suggestion featured on my blog! As always, eat and be happy! :) </h3>
   
 <article class="grid-container">
   <div class="grid-x align-center">
